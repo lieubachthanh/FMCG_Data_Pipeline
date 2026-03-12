@@ -13,7 +13,8 @@ END_DATE = "2025-12-31"
 
 dates = pd.date_range(START_DATE, END_DATE)
 
-BASE = "data/raw"
+current_dir = os.path.dirname(os.path.abspath(__file__))
+target_path = os.path.join(current_dir, "..", "data_lake", "raw")
 
 N_PRODUCTS = 120
 N_DISTRIBUTORS = 40
@@ -88,9 +89,9 @@ def gen_products():
 
     df=pd.DataFrame(rows)
 
-    ensure(BASE+"/erp")
+    ensure(target_path+"/erp")
 
-    df.to_csv(BASE+"/erp/product_master.csv",index=False)
+    df.to_csv(target_path+"/erp/product_master.csv",index=False)
 
     return df
 
@@ -114,7 +115,7 @@ def gen_distributors():
 
     df=pd.DataFrame(rows)
 
-    df.to_csv(BASE+"/erp/distributor_master.csv",index=False)
+    df.to_csv(target_path+"/erp/distributor_master.csv",index=False)
 
     return df
 
@@ -140,11 +141,11 @@ def gen_retailers(distributors):
         "province":d.province
         })
 
-    ensure(BASE+"/dms")
+    ensure(target_path+"/dms")
 
     df=pd.DataFrame(rows)
 
-    df.to_csv(BASE+"/dms/retailer_master.csv",index=False)
+    df.to_csv(target_path+"/dms/retailer_master.csv",index=False)
 
     return df
 
@@ -169,11 +170,11 @@ def gen_mt_stores():
         "province":fake.city()
         })
 
-    ensure(BASE+"/pos")
+    ensure(target_path+"/pos")
 
     df=pd.DataFrame(rows)
 
-    df.to_csv(BASE+"/pos/store_master.csv",index=False)
+    df.to_csv(target_path+"/pos/store_master.csv",index=False)
 
     return df
 
@@ -208,9 +209,9 @@ def build_store_assortment(products,retailers,stores):
 
     df=pd.DataFrame(coverage)
 
-    ensure(BASE+"/reference")
+    ensure(target_path+"/reference")
 
-    df.to_csv(BASE+"/reference/store_assortment.csv",index=False)
+    df.to_csv(target_path+"/reference/store_assortment.csv",index=False)
 
     return df
 
@@ -242,11 +243,11 @@ def gen_promotions(products):
         "discount_percent":random.uniform(0.05,0.25)
         })
 
-    ensure(BASE+"/marketing")
+    ensure(target_path+"/marketing")
 
     df=pd.DataFrame(rows)
 
-    df.to_csv(BASE+"/marketing/promotions.csv",index=False)
+    df.to_csv(target_path+"/marketing/promotions.csv",index=False)
 
     return df
 
@@ -271,9 +272,9 @@ def gen_innovations(products):
         "campaign_name":fake.bs()
         })
 
-    ensure(BASE+"/innovation")
+    ensure(target_path+"/innovation")
 
-    pd.DataFrame(rows).to_csv(BASE+"/innovation/innovation_master.csv",index=False)
+    pd.DataFrame(rows).to_csv(target_path+"/innovation/innovation_master.csv",index=False)
 
 
 # -----------------------------
@@ -323,7 +324,7 @@ def gen_sellin(products,distributors):
             "net_sales":qty*price*(1-discount)
             })
 
-    pd.DataFrame(rows).to_csv(BASE+"/erp/sellin.csv",index=False)
+    pd.DataFrame(rows).to_csv(target_path+"/erp/sellin.csv",index=False)
 
 
 # -----------------------------
@@ -355,7 +356,7 @@ def gen_sellout(products,retailers):
             "revenue":qty*price
             })
 
-    pd.DataFrame(rows).to_csv(BASE+"/dms/sellout.csv",index=False)
+    pd.DataFrame(rows).to_csv(target_path+"/dms/sellout.csv",index=False)
 
 
 # -----------------------------
@@ -386,7 +387,7 @@ def gen_pos(products,stores):
             "revenue":qty*price
             })
 
-    pd.DataFrame(rows).to_csv(BASE+"/pos/pos_sales.csv",index=False)
+    pd.DataFrame(rows).to_csv(target_path+"/pos/pos_sales.csv",index=False)
 
 
 # -----------------------------
@@ -408,9 +409,9 @@ def gen_inventory(products):
             "stock_on_hand":np.random.randint(500,6000)
             })
 
-    ensure(BASE+"/supply_chain")
+    ensure(target_path+"/supply_chain")
 
-    pd.DataFrame(rows).to_csv(BASE+"/supply_chain/inventory.csv",index=False)
+    pd.DataFrame(rows).to_csv(target_path+"/supply_chain/inventory.csv",index=False)
 
 
 # -----------------------------
@@ -435,9 +436,9 @@ def gen_store_visits(retailers):
             "visit_type":random.choice(["merchandising","order","audit"])
             })
 
-    ensure(BASE+"/sfa")
+    ensure(target_path+"/sfa")
 
-    pd.DataFrame(rows).to_csv(BASE+"/sfa/store_visits.csv",index=False)
+    pd.DataFrame(rows).to_csv(target_path+"/sfa/store_visits.csv",index=False)
 
 
 # -----------------------------
@@ -469,9 +470,9 @@ def gen_ecommerce(products):
             "revenue":qty*(p.pack_size*0.9)
             })
 
-    ensure(BASE+"/ecommerce")
+    ensure(target_path+"/ecommerce")
 
-    pd.DataFrame(rows).to_csv(BASE+"/ecommerce/orders.csv",index=False)
+    pd.DataFrame(rows).to_csv(target_path+"/ecommerce/orders.csv",index=False)
 
 
 # -----------------------------
@@ -497,9 +498,9 @@ def gen_market_data():
             "market_share":shares[i]
             })
 
-    ensure(BASE+"/external")
+    ensure(target_path+"/external")
 
-    pd.DataFrame(rows).to_csv(BASE+"/external/market_share.csv",index=False)
+    pd.DataFrame(rows).to_csv(target_path+"/external/market_share.csv",index=False)
 
 
 # -----------------------------
