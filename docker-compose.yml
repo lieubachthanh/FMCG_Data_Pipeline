@@ -1,0 +1,138 @@
+version: "3.9"
+
+# ── FMCG Data Engineering Platform ─────────────────────────────────────────
+# Runs: Airflow (scheduler + webserver + worker) + Metabase
+# DuckDB and Spark run locally — no extra containers needed
+# ───────────────────────────────────────────────────────────────────────────
+
+x-airflow-common: &airflow-common
+  image: apache/airflow:2.9.1-python3.11
+  environment: &airflow-env
+    AIRFLOW__CORE__EXECUTOR: LocalExecutor
+    AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+    AIRFLOW__CORE__FERNET_KEY: ""
+    AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "false"
+    AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+    AIRFLOW__API__AUTH_BACKENDS: airflow.api.auth.backend.basic_auth
+    AIRFLOW__SCHEDULER__DAG_DIR_LIST_INTERVAL: 30
+    # Project paths
+    FMCG_PROJECT_DIR: /opt/fmcg_platform
+    RAW_BASE: /opt/fmcg_platform/data_lake/raw
+    CLEAN_BASE: /opt/fmcg_platform/data_lake/clean
+    DW_PATH: /opt/fmcg_platform/data_lake/fmcg_warehouse.duckdb
+    PYTHON_BIN: python3
+    SPARK_SUBMIT: spark-submit
+    METABASE_URL: http://metabase:3000
+    METABASE_EMAIL: admin@fmcg.local
+    METABASE_PASSWORD: admin123
+    _PIP_ADDITIONAL_REQUIREMENTS: >-
+      pandas numpy faker duckdb pyarrow pyspark
+  volumes:
+    - ./dags:/opt/airflow/dags
+    - ./logs:/opt/airflow/logs
+    - ./plugins:/opt/airflow/plugins
+    - .:/opt/fmcg_platform          # Mount entire project
+  user: "${AIRFLOW_UID:-50000}:0"
+  depends_on:
+    postgres:
+      condition: service_healthy
+
+services:
+
+  # ── Airflow metadata database ─────────────────────────────────────────────
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "airflow"]
+      interval: 10s
+      retries: 5
+      start_period: 5s
+    restart: always
+
+  # ── Airflow init (runs migrations + creates admin user) ───────────────────
+  airflow-init:
+    <<: *airflow-common
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        mkdir -p /opt/airflow/logs /opt/airflow/dags /opt/airflow/plugins
+        airflow db upgrade
+        airflow users create \
+          --username admin \
+          --firstname FMCG \
+          --lastname Admin \
+          --role Admin \
+          --email admin@fmcg.local \
+          --password admin123 || true
+        echo "Airflow initialized ✓"
+    environment:
+      <<: *airflow-env
+    restart: "no"
+
+  # ── Airflow Scheduler ─────────────────────────────────────────────────────
+  airflow-scheduler:
+    <<: *airflow-common
+    command: scheduler
+    healthcheck:
+      test: ["CMD", "airflow", "jobs", "check", "--job-type", "SchedulerJob", "--hostname", "$${HOSTNAME}"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    restart: always
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+
+  # ── Airflow Webserver ─────────────────────────────────────────────────────
+  airflow-webserver:
+    <<: *airflow-common
+    command: webserver
+    ports:
+      - "8080:8080"
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:8080/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    restart: always
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+
+  # ── Metabase ──────────────────────────────────────────────────────────────
+  metabase:
+    image: metabase/metabase:v0.50.0
+    ports:
+      - "3000:3000"
+    volumes:
+      - metabase_data:/metabase-data
+      - ./data_lake:/opt/fmcg_platform/data_lake  # Access DuckDB
+    environment:
+      MB_DB_TYPE: h2
+      MB_DB_FILE: /metabase-data/metabase.db
+      JAVA_OPTS: "-Xmx1g"
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:3000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 10
+      start_period: 60s
+    restart: always
+
+volumes:
+  postgres_data:
+  metabase_data:
+
+# ── Usage ──────────────────────────────────────────────────────────────────
+# 1. Start:  docker-compose up -d
+# 2. Airflow UI:  http://localhost:8080  (admin / admin123)
+# 3. Metabase:    http://localhost:3000
+# 4. First run:   docker-compose exec airflow-webserver \
+#                   airflow dags trigger fmcg_data_pipeline

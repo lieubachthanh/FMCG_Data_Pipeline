@@ -1,0 +1,201 @@
+﻿store_id,store_name,chain,region,province
+STR0001,Coopmart Thành phố JohnThành phố,Coopmart,North,Hai Phong
+STR0002,Lotte JohnQuận,Lotte,North,Hanoi
+STR0003,Lotte Thị xã JaneXã,Lotte,Central,Hue
+STR0004,Go JaneXã,Go,South,Dong Nai
+STR0005,Winmart JohnQuận,Winmart,North,Bac Ninh
+STR0006,Coopmart Quận JaneQuận,Coopmart,South,Can Tho
+STR0007,Go JohnHuyện,Go,North,Quang Ninh
+STR0008,Go Thị xã JohnThành phố,Go,Central,Da Nang
+STR0009,Lotte JohnThành phố,Lotte,Central,Quang Nam
+STR0010,Winmart JohnQuận,Winmart,South,Ho Chi Minh City
+STR0011,Lotte JaneXã,Lotte,South,Ho Chi Minh City
+STR0012,Go JaneQuận,Go,North,Hanoi
+STR0013,Go Huyện JohnThị xã,Go,South,Dong Nai
+STR0014,Winmart JanePhường,Winmart,North,Hai Phong
+STR0015,Winmart Thị xã JohnThị xã,Winmart,South,Dong Nai
+STR0016,Go JohnHuyện,Go,South,Can Tho
+STR0017,Go JohnXã,Go,South,Binh Duong
+STR0018,Go JaneThành phố,Go,Central,Binh Dinh
+STR0019,Go JanePhường,Go,South,Binh Duong
+STR0020,Coopmart Quận JaneHuyện,Coopmart,North,Hanoi
+STR0021,Go JohnXã,Go,Central,Da Nang
+STR0022,Go JohnPhường,Go,South,Ho Chi Minh City
+STR0023,Lotte Thị xã JaneXã,Lotte,South,Dong Nai
+STR0024,Winmart JanePhường,Winmart,South,Can Tho
+STR0025,Lotte JaneThành phố,Lotte,North,Quang Ninh
+STR0026,Coopmart JanePhường,Coopmart,North,Hanoi
+STR0027,Lotte Thành phố JaneThị xã,Lotte,Central,Hue
+STR0028,Winmart Thị xã JaneXã,Winmart,South,Dong Nai
+STR0029,Coopmart Huyện JohnThành phố,Coopmart,South,Binh Duong
+STR0030,Lotte Huyện JaneQuận,Lotte,South,Ho Chi Minh City
+STR0031,Go JohnThị xã,Go,Central,Quang Nam
+STR0032,Go Huyện JaneHuyện,Go,North,Hanoi
+STR0033,Coopmart JohnThị xã,Coopmart,Central,Da Nang
+STR0034,Coopmart JaneThành phố,Coopmart,South,Can Tho
+STR0035,Go Quận JaneHuyện,Go,North,Bac Ninh
+STR0036,Lotte Thành phố JaneHuyện,Lotte,South,Ho Chi Minh City
+STR0037,Coopmart JohnThành phố,Coopmart,Central,Quang Nam
+STR0038,Lotte JaneQuận,Lotte,South,Ho Chi Minh City
+STR0039,Winmart JaneThị xã,Winmart,South,Binh Duong
+STR0040,Lotte Quận JohnThành phố,Lotte,South,Binh Duong
+STR0041,Lotte JohnHuyện,Lotte,North,Bac Ninh
+STR0042,Coopmart JohnThị xã,Coopmart,South,Ho Chi Minh City
+STR0043,Winmart Thành phố JohnHuyện,Winmart,Central,Hue
+STR0044,Lotte JanePhường,Lotte,South,Ho Chi Minh City
+STR0045,Lotte Thị xã JohnThành phố,Lotte,South,Can Tho
+STR0046,Lotte JohnHuyện,Lotte,Central,Quang Nam
+STR0047,Go Huyện JaneThành phố,Go,Central,Da Nang
+STR0048,Go JaneXã,Go,South,Binh Duong
+STR0049,Winmart Quận JohnThành phố,Winmart,South,Binh Duong
+STR0050,Go Quận JanePhường,Go,South,Ho Chi Minh City
+STR0051,Lotte Quận JaneQuận,Lotte,North,Hai Phong
+STR0052,Coopmart JaneThị xã,Coopmart,South,Ho Chi Minh City
+STR0053,Coopmart JaneThị xã,Coopmart,South,Ho Chi Minh City
+STR0054,Lotte Thành phố JaneQuận,Lotte,Central,Binh Dinh
+STR0055,Lotte JanePhường,Lotte,North,Quang Ninh
+STR0056,Winmart JohnHuyện,Winmart,South,Ho Chi Minh City
+STR0057,Lotte JohnHuyện,Lotte,North,Quang Ninh
+STR0058,Go Thành phố JohnThị xã,Go,South,Ho Chi Minh City
+STR0059,Winmart JohnThị xã,Winmart,South,Dong Nai
+STR0060,Go JanePhường,Go,Central,Da Nang
+STR0061,Winmart Thành phố JaneXã,Winmart,North,Hanoi
+STR0062,Lotte JohnQuận,Lotte,Central,Hue
+STR0063,Coopmart JaneHuyện,Coopmart,Central,Binh Dinh
+STR0064,Coopmart Huyện JaneThành phố,Coopmart,Central,Hue
+STR0065,Lotte Thị xã JanePhường,Lotte,North,Hai Phong
+STR0066,Coopmart JaneXã,Coopmart,South,Can Tho
+STR0067,Go Thị xã JaneThị xã,Go,North,Hai Phong
+STR0068,Winmart Thị xã JohnThị xã,Winmart,North,Hanoi
+STR0069,Lotte JaneThị xã,Lotte,South,Ho Chi Minh City
+STR0070,Go Quận JaneQuận,Go,Central,Hue
+STR0071,Coopmart JaneQuận,Coopmart,North,Bac Ninh
+STR0072,Coopmart Thị xã JaneQuận,Coopmart,Central,Da Nang
+STR0073,Lotte Thị xã JaneQuận,Lotte,North,Hanoi
+STR0074,Lotte JohnThị xã,Lotte,Central,Da Nang
+STR0075,Coopmart Quận JanePhường,Coopmart,Central,Quang Nam
+STR0076,Coopmart JaneQuận,Coopmart,Central,Binh Dinh
+STR0077,Coopmart Quận JanePhường,Coopmart,Central,Da Nang
+STR0078,Winmart JohnThị xã,Winmart,North,Hanoi
+STR0079,Lotte Quận JaneQuận,Lotte,South,Binh Duong
+STR0080,Winmart Huyện JaneThành phố,Winmart,Central,Hue
+STR0081,Lotte JanePhường,Lotte,North,Bac Ninh
+STR0082,Winmart Huyện JohnXã,Winmart,North,Bac Ninh
+STR0083,Go JaneXã,Go,North,Hai Phong
+STR0084,Go Huyện JohnXã,Go,South,Dong Nai
+STR0085,Winmart Huyện JaneHuyện,Winmart,South,Ho Chi Minh City
+STR0086,Go JohnThị xã,Go,Central,Hue
+STR0087,Go Thị xã JaneThành phố,Go,Central,Binh Dinh
+STR0088,Coopmart JaneXã,Coopmart,North,Quang Ninh
+STR0089,Go JanePhường,Go,South,Binh Duong
+STR0090,Winmart JohnPhường,Winmart,South,Dong Nai
+STR0091,Coopmart JohnPhường,Coopmart,South,Ho Chi Minh City
+STR0092,Lotte Thị xã JaneQuận,Lotte,South,Binh Duong
+STR0093,Go Quận JohnThành phố,Go,Central,Quang Nam
+STR0094,Coopmart JohnPhường,Coopmart,South,Can Tho
+STR0095,Lotte JaneHuyện,Lotte,South,Dong Nai
+STR0096,Lotte JaneQuận,Lotte,Central,Hue
+STR0097,Go Thành phố JaneQuận,Go,South,Dong Nai
+STR0098,Winmart Quận JaneHuyện,Winmart,Central,Quang Nam
+STR0099,Winmart JaneThị xã,Winmart,South,Binh Duong
+STR0100,Winmart Quận JohnThị xã,Winmart,North,Bac Ninh
+STR0101,Winmart JaneThị xã,Winmart,South,Ho Chi Minh City
+STR0102,Go JanePhường,Go,South,Dong Nai
+STR0103,Go Thị xã JohnThị xã,Go,North,Quang Ninh
+STR0104,Go Quận JanePhường,Go,North,Quang Ninh
+STR0105,Go Thị xã JohnQuận,Go,South,Ho Chi Minh City
+STR0106,Winmart Thành phố JaneXã,Winmart,South,Dong Nai
+STR0107,Winmart Thành phố JanePhường,Winmart,South,Binh Duong
+STR0108,Coopmart Huyện JohnPhường,Coopmart,North,Hai Phong
+STR0109,Go Thị xã JaneThành phố,Go,Central,Binh Dinh
+STR0110,Go JohnXã,Go,North,Bac Ninh
+STR0111,Go Huyện JohnXã,Go,North,Hanoi
+STR0112,Coopmart JaneHuyện,Coopmart,North,Quang Ninh
+STR0113,Coopmart JanePhường,Coopmart,Central,Quang Nam
+STR0114,Winmart JohnXã,Winmart,North,Hai Phong
+STR0115,Go JaneThành phố,Go,South,Ho Chi Minh City
+STR0116,Lotte JohnPhường,Lotte,North,Quang Ninh
+STR0117,Lotte JanePhường,Lotte,South,Can Tho
+STR0118,Go JohnQuận,Go,North,Bac Ninh
+STR0119,Winmart Thành phố JaneXã,Winmart,South,Dong Nai
+STR0120,Winmart JohnQuận,Winmart,South,Dong Nai
+STR0121,Winmart JaneQuận,Winmart,North,Hai Phong
+STR0122,Winmart Thị xã JaneThành phố,Winmart,South,Can Tho
+STR0123,Lotte JohnThị xã,Lotte,North,Bac Ninh
+STR0124,Winmart Huyện JohnQuận,Winmart,North,Quang Ninh
+STR0125,Go JohnHuyện,Go,Central,Quang Nam
+STR0126,Go Thị xã JaneQuận,Go,South,Can Tho
+STR0127,Go JaneXã,Go,South,Binh Duong
+STR0128,Coopmart Quận JohnThành phố,Coopmart,Central,Binh Dinh
+STR0129,Go JohnHuyện,Go,Central,Quang Nam
+STR0130,Winmart Huyện JaneThị xã,Winmart,Central,Hue
+STR0131,Coopmart JaneQuận,Coopmart,South,Dong Nai
+STR0132,Winmart Quận JohnXã,Winmart,North,Bac Ninh
+STR0133,Winmart Quận JaneQuận,Winmart,Central,Hue
+STR0134,Lotte JaneHuyện,Lotte,Central,Da Nang
+STR0135,Winmart Thành phố JohnPhường,Winmart,North,Hai Phong
+STR0136,Winmart JaneHuyện,Winmart,North,Hai Phong
+STR0137,Lotte JaneXã,Lotte,South,Ho Chi Minh City
+STR0138,Coopmart Thành phố JaneThị xã,Coopmart,North,Bac Ninh
+STR0139,Lotte Thành phố JanePhường,Lotte,South,Dong Nai
+STR0140,Go JohnThị xã,Go,Central,Hue
+STR0141,Lotte Huyện JaneThành phố,Lotte,North,Hanoi
+STR0142,Lotte Thị xã JaneHuyện,Lotte,Central,Da Nang
+STR0143,Coopmart JohnThị xã,Coopmart,North,Hanoi
+STR0144,Coopmart Quận JohnThành phố,Coopmart,North,Hanoi
+STR0145,Lotte Thành phố JohnPhường,Lotte,North,Hanoi
+STR0146,Winmart Thị xã JanePhường,Winmart,South,Binh Duong
+STR0147,Winmart Quận JaneXã,Winmart,North,Hanoi
+STR0148,Coopmart JanePhường,Coopmart,North,Bac Ninh
+STR0149,Lotte JanePhường,Lotte,South,Binh Duong
+STR0150,Lotte Thị xã JanePhường,Lotte,Central,Binh Dinh
+STR0151,Winmart JohnPhường,Winmart,Central,Hue
+STR0152,Lotte Huyện JaneHuyện,Lotte,North,Hanoi
+STR0153,Winmart JohnHuyện,Winmart,Central,Quang Nam
+STR0154,Go JaneThành phố,Go,North,Hanoi
+STR0155,Winmart Thành phố JaneQuận,Winmart,South,Ho Chi Minh City
+STR0156,Lotte JaneXã,Lotte,Central,Da Nang
+STR0157,Coopmart Huyện JohnHuyện,Coopmart,North,Hai Phong
+STR0158,Coopmart JaneThị xã,Coopmart,North,Hai Phong
+STR0159,Go JaneThị xã,Go,North,Hai Phong
+STR0160,Go Thành phố JaneHuyện,Go,Central,Hue
+STR0161,Coopmart Huyện JohnPhường,Coopmart,South,Can Tho
+STR0162,Coopmart JaneThành phố,Coopmart,North,Bac Ninh
+STR0163,Coopmart JaneThành phố,Coopmart,Central,Binh Dinh
+STR0164,Winmart JohnThị xã,Winmart,South,Dong Nai
+STR0165,Lotte JanePhường,Lotte,South,Ho Chi Minh City
+STR0166,Lotte Thị xã JanePhường,Lotte,Central,Da Nang
+STR0167,Go Thành phố JohnXã,Go,Central,Da Nang
+STR0168,Coopmart JaneThị xã,Coopmart,North,Quang Ninh
+STR0169,Go Thị xã JaneXã,Go,North,Hai Phong
+STR0170,Winmart JaneHuyện,Winmart,South,Can Tho
+STR0171,Lotte Quận JohnXã,Lotte,South,Can Tho
+STR0172,Winmart Thị xã JaneQuận,Winmart,South,Binh Duong
+STR0173,Lotte JaneHuyện,Lotte,North,Hai Phong
+STR0174,Go Huyện JohnHuyện,Go,Central,Quang Nam
+STR0175,Go JohnPhường,Go,North,Hai Phong
+STR0176,Coopmart Huyện JaneQuận,Coopmart,Central,Hue
+STR0177,Coopmart Thành phố JohnThị xã,Coopmart,South,Ho Chi Minh City
+STR0178,Coopmart JohnXã,Coopmart,South,Ho Chi Minh City
+STR0179,Lotte Quận JaneXã,Lotte,Central,Da Nang
+STR0180,Winmart Quận JaneQuận,Winmart,South,Ho Chi Minh City
+STR0181,Lotte JaneHuyện,Lotte,North,Hai Phong
+STR0182,Lotte JaneXã,Lotte,Central,Hue
+STR0183,Go JaneThành phố,Go,North,Bac Ninh
+STR0184,Winmart Thị xã JohnPhường,Winmart,South,Ho Chi Minh City
+STR0185,Coopmart Huyện JohnHuyện,Coopmart,Central,Hue
+STR0186,Coopmart JaneXã,Coopmart,North,Hai Phong
+STR0187,Winmart Thị xã JaneQuận,Winmart,Central,Binh Dinh
+STR0188,Lotte JohnThị xã,Lotte,South,Binh Duong
+STR0189,Winmart Huyện JohnThành phố,Winmart,South,Can Tho
+STR0190,Coopmart JaneThành phố,Coopmart,North,Quang Ninh
+STR0191,Winmart Thị xã JaneHuyện,Winmart,South,Binh Duong
+STR0192,Winmart JaneThành phố,Winmart,North,Hai Phong
+STR0193,Lotte JohnHuyện,Lotte,South,Dong Nai
+STR0194,Go Thị xã JohnXã,Go,Central,Quang Nam
+STR0195,Winmart JaneHuyện,Winmart,South,Binh Duong
+STR0196,Winmart Quận JohnHuyện,Winmart,North,Bac Ninh
+STR0197,Go JohnHuyện,Go,North,Bac Ninh
+STR0198,Lotte JaneThành phố,Lotte,Central,Da Nang
+STR0199,Coopmart Quận JohnHuyện,Coopmart,North,Quang Ninh
+STR0200,Winmart Quận JaneQuận,Winmart,North,Bac Ninh

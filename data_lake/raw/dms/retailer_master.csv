@@ -1,0 +1,501 @@
+﻿retailer_id,name,distributor_id,store_type,region,province
+RET0001,Hoàng Đặng Công ty Hợp danh Store,DIST020,Supermarket,North,Hai Phong
+RET0002,Phạm và Trần Công ty Hợp danh Store,DIST031,Convenience,North,Bac Ninh
+RET0003,Phạm và Nguyễn Công ty TNHH Store,DIST035,Grocery,South,Can Tho
+RET0004,Bùi Phạm Công ty TNHH Store,DIST001,Convenience,North,Bac Ninh
+RET0005,Đặng Công ty Trách nhiệm hữu hạn Store,DIST017,Supermarket,South,Binh Duong
+RET0006,Phạm và đối tác Công ty Cổ phần Store,DIST003,Grocery,Central,Da Nang
+RET0007,Đặng và Dương Công ty Cổ phần Store,DIST030,Supermarket,South,Ho Chi Minh City
+RET0008,Hoàng Hoàng Tập Đoàn Store,DIST006,Supermarket,North,Quang Ninh
+RET0009,Trần Lê Công ty Hợp danh Store,DIST033,Grocery,North,Hanoi
+RET0010,Phạm Doanh nghiệp tư nhân Store,DIST001,Supermarket,North,Hai Phong
+RET0011,Vũ và Vũ Doanh nghiệp tư nhân Store,DIST026,Grocery,North,Quang Ninh
+RET0012,Trần và đối tác Công ty TNHH MTV Store,DIST009,Supermarket,North,Hai Phong
+RET0013,Nguyễn Hoàng Tập Đoàn Store,DIST034,Grocery,Central,Binh Dinh
+RET0014,Đặng và đối tác Tập Đoàn Store,DIST027,Convenience,South,Ho Chi Minh City
+RET0015,Nguyễn Lê Công ty TNHH MTV Store,DIST034,Convenience,Central,Quang Nam
+RET0016,Nguyễn Công ty Trách nhiệm hữu hạn Store,DIST040,Convenience,North,Hanoi
+RET0017,Lê Doanh nghiệp tư nhân Store,DIST033,Grocery,South,Can Tho
+RET0018,Bùi Vũ Công ty Cổ phần Store,DIST022,Convenience,Central,Quang Nam
+RET0019,Hoàng Công ty TNHH MTV Store,DIST027,Grocery,Central,Hue
+RET0020,Phạm và Mai Công ty TNHH MTV Store,DIST004,Grocery,South,Can Tho
+RET0021,Vũ và Trần Tập Đoàn Store,DIST004,Grocery,North,Hanoi
+RET0022,Mai và đối tác Công ty Trách nhiệm hữu hạn Store,DIST035,Convenience,North,Quang Ninh
+RET0023,Phạm và đối tác Công ty TNHH MTV Store,DIST015,Supermarket,South,Ho Chi Minh City
+RET0024,Đặng Công ty TNHH Store,DIST040,Supermarket,South,Dong Nai
+RET0025,Mai Trần Công ty TNHH Store,DIST031,Grocery,North,Bac Ninh
+RET0026,Hoàng và đối tác Công ty Hợp danh Store,DIST025,Supermarket,Central,Hue
+RET0027,Dương và đối tác Công ty TNHH Store,DIST019,Supermarket,North,Bac Ninh
+RET0028,Hoàng và đối tác Công ty Hợp danh Store,DIST003,Supermarket,North,Bac Ninh
+RET0029,Bùi và Phạm Tập Đoàn Store,DIST014,Grocery,South,Dong Nai
+RET0030,Mai và đối tác Tập Đoàn Store,DIST033,Grocery,South,Ho Chi Minh City
+RET0031,Trần và Đặng Công ty Trách nhiệm hữu hạn Store,DIST024,Grocery,North,Hai Phong
+RET0032,Mai và đối tác Công ty Hợp danh Store,DIST005,Supermarket,Central,Binh Dinh
+RET0033,Đặng Đặng Doanh nghiệp tư nhân Store,DIST034,Supermarket,South,Ho Chi Minh City
+RET0034,Bùi Công ty Trách nhiệm hữu hạn Store,DIST023,Grocery,South,Ho Chi Minh City
+RET0035,Hoàng Công ty TNHH Store,DIST031,Supermarket,Central,Quang Nam
+RET0036,Trần Trần Công ty TNHH MTV Store,DIST038,Supermarket,North,Bac Ninh
+RET0037,Trần Vũ Công ty Hợp danh Store,DIST002,Supermarket,South,Ho Chi Minh City
+RET0038,Lê và đối tác Công ty Hợp danh Store,DIST006,Grocery,South,Binh Duong
+RET0039,Dương Công ty Cổ phần Store,DIST003,Convenience,Central,Binh Dinh
+RET0040,Phạm Trần Công ty Trách nhiệm hữu hạn Store,DIST010,Supermarket,Central,Binh Dinh
+RET0041,Lê và đối tác Công ty TNHH MTV Store,DIST003,Grocery,South,Can Tho
+RET0042,Hoàng Nguyễn Công ty Trách nhiệm hữu hạn Store,DIST001,Supermarket,North,Quang Ninh
+RET0043,Đặng Công ty Cổ phần Store,DIST029,Grocery,South,Ho Chi Minh City
+RET0044,Nguyễn Lê Công ty Trách nhiệm hữu hạn Store,DIST035,Supermarket,North,Hanoi
+RET0045,Vũ Mai Công ty Trách nhiệm hữu hạn Store,DIST003,Grocery,North,Quang Ninh
+RET0046,Phạm và đối tác Công ty TNHH Store,DIST018,Convenience,Central,Da Nang
+RET0047,Vũ và đối tác Công ty Cổ phần Store,DIST013,Convenience,North,Quang Ninh
+RET0048,Trần Công ty TNHH Store,DIST039,Grocery,South,Binh Duong
+RET0049,Nguyễn và Đặng Công ty TNHH Store,DIST014,Supermarket,North,Hai Phong
+RET0050,Nguyễn và Bùi Doanh nghiệp tư nhân Store,DIST035,Convenience,North,Quang Ninh
+RET0051,Vũ Công ty Trách nhiệm hữu hạn Store,DIST006,Grocery,Central,Hue
+RET0052,Vũ và đối tác Công ty Hợp danh Store,DIST017,Convenience,South,Binh Duong
+RET0053,Đặng và Vũ Công ty Hợp danh Store,DIST018,Convenience,South,Binh Duong
+RET0054,Lê Công ty Hợp danh Store,DIST020,Convenience,South,Can Tho
+RET0055,Lê và Lê Công ty TNHH MTV Store,DIST022,Convenience,Central,Hue
+RET0056,Đặng Dương Công ty TNHH Store,DIST020,Grocery,South,Binh Duong
+RET0057,Phạm Doanh nghiệp tư nhân Store,DIST029,Supermarket,Central,Quang Nam
+RET0058,Trần Trần Công ty TNHH Store,DIST039,Grocery,North,Hai Phong
+RET0059,Mai Hoàng Công ty Hợp danh Store,DIST029,Convenience,Central,Hue
+RET0060,Trần Tập Đoàn Store,DIST024,Convenience,South,Binh Duong
+RET0061,Trần và đối tác Doanh nghiệp tư nhân Store,DIST013,Convenience,North,Bac Ninh
+RET0062,Vũ và đối tác Công ty TNHH MTV Store,DIST011,Convenience,North,Bac Ninh
+RET0063,Mai và Đặng Công ty Trách nhiệm hữu hạn Store,DIST034,Grocery,Central,Binh Dinh
+RET0064,Đặng Công ty TNHH Store,DIST034,Grocery,North,Bac Ninh
+RET0065,Nguyễn Công ty Cổ phần Store,DIST032,Grocery,Central,Da Nang
+RET0066,Lê Công ty TNHH MTV Store,DIST001,Supermarket,South,Can Tho
+RET0067,Phạm và đối tác Doanh nghiệp tư nhân Store,DIST018,Convenience,North,Bac Ninh
+RET0068,Nguyễn Doanh nghiệp tư nhân Store,DIST016,Convenience,Central,Da Nang
+RET0069,Bùi và Bùi Công ty Hợp danh Store,DIST010,Convenience,South,Binh Duong
+RET0070,Bùi và đối tác Doanh nghiệp tư nhân Store,DIST005,Convenience,South,Ho Chi Minh City
+RET0071,Vũ và đối tác Công ty Trách nhiệm hữu hạn Store,DIST001,Supermarket,Central,Hue
+RET0072,Đặng Công ty Cổ phần Store,DIST033,Grocery,Central,Da Nang
+RET0073,Nguyễn Trần Doanh nghiệp tư nhân Store,DIST007,Grocery,South,Ho Chi Minh City
+RET0074,Hoàng Trần Công ty TNHH Store,DIST014,Grocery,Central,Quang Nam
+RET0075,Trần và đối tác Công ty Cổ phần Store,DIST031,Supermarket,Central,Quang Nam
+RET0076,Dương và đối tác Công ty Hợp danh Store,DIST019,Grocery,North,Quang Ninh
+RET0077,Vũ Trần Công ty Trách nhiệm hữu hạn Store,DIST031,Convenience,Central,Quang Nam
+RET0078,Vũ Bùi Công ty TNHH Store,DIST036,Grocery,Central,Quang Nam
+RET0079,Dương Tập Đoàn Store,DIST025,Grocery,Central,Da Nang
+RET0080,Bùi và Hoàng Công ty Trách nhiệm hữu hạn Store,DIST015,Grocery,Central,Quang Nam
+RET0081,Phạm Hoàng Công ty Hợp danh Store,DIST030,Supermarket,Central,Binh Dinh
+RET0082,Bùi Doanh nghiệp tư nhân Store,DIST013,Convenience,North,Hanoi
+RET0083,Trần và Dương Công ty TNHH MTV Store,DIST029,Grocery,South,Can Tho
+RET0084,Mai Trần Công ty Cổ phần Store,DIST016,Convenience,Central,Quang Nam
+RET0085,Trần Công ty TNHH Store,DIST013,Grocery,Central,Da Nang
+RET0086,Hoàng và đối tác Công ty Cổ phần Store,DIST018,Supermarket,Central,Binh Dinh
+RET0087,Mai và Bùi Công ty Trách nhiệm hữu hạn Store,DIST014,Convenience,North,Bac Ninh
+RET0088,Phạm Trần Công ty Hợp danh Store,DIST038,Grocery,North,Hai Phong
+RET0089,Đặng Bùi Công ty TNHH Store,DIST006,Supermarket,Central,Hue
+RET0090,Hoàng Đặng Công ty TNHH MTV Store,DIST011,Supermarket,South,Can Tho
+RET0091,Hoàng Trần Doanh nghiệp tư nhân Store,DIST039,Supermarket,South,Binh Duong
+RET0092,Hoàng Công ty Trách nhiệm hữu hạn Store,DIST029,Supermarket,North,Bac Ninh
+RET0093,Vũ Công ty TNHH Store,DIST017,Grocery,North,Bac Ninh
+RET0094,Phạm Lê Tập Đoàn Store,DIST004,Supermarket,Central,Binh Dinh
+RET0095,Bùi và Trần Công ty Hợp danh Store,DIST008,Grocery,Central,Da Nang
+RET0096,Hoàng và đối tác Công ty Trách nhiệm hữu hạn Store,DIST020,Grocery,Central,Da Nang
+RET0097,Dương Công ty Hợp danh Store,DIST007,Supermarket,North,Bac Ninh
+RET0098,Phạm Dương Công ty Cổ phần Store,DIST023,Supermarket,South,Binh Duong
+RET0099,Nguyễn và Đặng Công ty TNHH Store,DIST036,Grocery,North,Quang Ninh
+RET0100,Trần và đối tác Công ty TNHH Store,DIST005,Supermarket,South,Can Tho
+RET0101,Dương Bùi Công ty Hợp danh Store,DIST006,Grocery,Central,Quang Nam
+RET0102,Lê và đối tác Doanh nghiệp tư nhân Store,DIST029,Supermarket,Central,Quang Nam
+RET0103,Phạm và Dương Công ty TNHH MTV Store,DIST037,Grocery,South,Dong Nai
+RET0104,Bùi Nguyễn Công ty TNHH MTV Store,DIST040,Grocery,North,Quang Ninh
+RET0105,Trần Tập Đoàn Store,DIST006,Supermarket,North,Hanoi
+RET0106,Mai và đối tác Doanh nghiệp tư nhân Store,DIST037,Supermarket,South,Can Tho
+RET0107,Hoàng và đối tác Doanh nghiệp tư nhân Store,DIST036,Grocery,Central,Quang Nam
+RET0108,Hoàng Đặng Doanh nghiệp tư nhân Store,DIST003,Supermarket,North,Bac Ninh
+RET0109,Hoàng và Vũ Công ty Hợp danh Store,DIST036,Supermarket,South,Ho Chi Minh City
+RET0110,Mai và Vũ Công ty Hợp danh Store,DIST037,Supermarket,North,Bac Ninh
+RET0111,Đặng Trần Tập Đoàn Store,DIST039,Convenience,North,Bac Ninh
+RET0112,Hoàng và Đặng Công ty Trách nhiệm hữu hạn Store,DIST029,Convenience,Central,Binh Dinh
+RET0113,Mai Tập Đoàn Store,DIST031,Convenience,South,Ho Chi Minh City
+RET0114,Vũ Nguyễn Công ty Hợp danh Store,DIST023,Supermarket,South,Can Tho
+RET0115,Vũ và Dương Doanh nghiệp tư nhân Store,DIST025,Convenience,North,Hai Phong
+RET0116,Nguyễn và đối tác Công ty Trách nhiệm hữu hạn Store,DIST012,Grocery,South,Ho Chi Minh City
+RET0117,Mai và Hoàng Công ty Trách nhiệm hữu hạn Store,DIST006,Convenience,Central,Quang Nam
+RET0118,Bùi và đối tác Công ty TNHH Store,DIST003,Convenience,South,Can Tho
+RET0119,Phạm và Hoàng Công ty Hợp danh Store,DIST039,Supermarket,Central,Binh Dinh
+RET0120,Bùi và Đặng Doanh nghiệp tư nhân Store,DIST014,Supermarket,North,Quang Ninh
+RET0121,Vũ Công ty Cổ phần Store,DIST005,Convenience,Central,Quang Nam
+RET0122,Mai và Nguyễn Công ty TNHH Store,DIST018,Convenience,South,Dong Nai
+RET0123,Mai Công ty Hợp danh Store,DIST034,Convenience,North,Quang Ninh
+RET0124,Mai Lê Công ty TNHH MTV Store,DIST036,Grocery,Central,Binh Dinh
+RET0125,Nguyễn và Bùi Công ty TNHH MTV Store,DIST039,Grocery,North,Quang Ninh
+RET0126,Lê Trần Tập Đoàn Store,DIST007,Grocery,Central,Hue
+RET0127,Nguyễn Công ty TNHH MTV Store,DIST023,Supermarket,South,Binh Duong
+RET0128,Phạm và Lê Công ty Cổ phần Store,DIST010,Supermarket,Central,Binh Dinh
+RET0129,Hoàng và đối tác Công ty Trách nhiệm hữu hạn Store,DIST029,Convenience,Central,Quang Nam
+RET0130,Vũ và Nguyễn Doanh nghiệp tư nhân Store,DIST022,Grocery,Central,Da Nang
+RET0131,Dương Mai Công ty TNHH Store,DIST030,Convenience,South,Can Tho
+RET0132,Bùi và Vũ Doanh nghiệp tư nhân Store,DIST005,Grocery,Central,Binh Dinh
+RET0133,Phạm Dương Công ty Cổ phần Store,DIST029,Convenience,South,Binh Duong
+RET0134,Lê và Lê Công ty Cổ phần Store,DIST026,Convenience,North,Hanoi
+RET0135,Mai Công ty Trách nhiệm hữu hạn Store,DIST012,Convenience,South,Binh Duong
+RET0136,Nguyễn Mai Công ty Cổ phần Store,DIST011,Supermarket,South,Can Tho
+RET0137,Lê và đối tác Công ty TNHH Store,DIST024,Grocery,North,Hai Phong
+RET0138,Lê và Lê Tập Đoàn Store,DIST022,Supermarket,North,Quang Ninh
+RET0139,Hoàng Tập Đoàn Store,DIST034,Grocery,South,Ho Chi Minh City
+RET0140,Mai và đối tác Tập Đoàn Store,DIST009,Convenience,South,Ho Chi Minh City
+RET0141,Đặng Công ty TNHH Store,DIST017,Grocery,North,Quang Ninh
+RET0142,Mai Phạm Công ty TNHH MTV Store,DIST007,Supermarket,Central,Binh Dinh
+RET0143,Phạm Lê Công ty TNHH Store,DIST025,Grocery,North,Bac Ninh
+RET0144,Nguyễn Công ty Hợp danh Store,DIST037,Grocery,Central,Hue
+RET0145,Bùi Công ty TNHH Store,DIST002,Grocery,South,Dong Nai
+RET0146,Hoàng và đối tác Công ty Hợp danh Store,DIST014,Supermarket,North,Hanoi
+RET0147,Hoàng và đối tác Công ty Trách nhiệm hữu hạn Store,DIST019,Supermarket,South,Dong Nai
+RET0148,Bùi và Vũ Công ty Cổ phần Store,DIST009,Convenience,Central,Binh Dinh
+RET0149,Mai và đối tác Công ty TNHH Store,DIST014,Supermarket,Central,Quang Nam
+RET0150,Vũ và Đặng Doanh nghiệp tư nhân Store,DIST026,Convenience,Central,Binh Dinh
+RET0151,Đặng và đối tác Công ty Trách nhiệm hữu hạn Store,DIST005,Supermarket,North,Quang Ninh
+RET0152,Hoàng Doanh nghiệp tư nhân Store,DIST016,Supermarket,North,Quang Ninh
+RET0153,Hoàng Doanh nghiệp tư nhân Store,DIST036,Convenience,North,Hai Phong
+RET0154,Hoàng Vũ Công ty TNHH Store,DIST028,Grocery,North,Hai Phong
+RET0155,Phạm Công ty Hợp danh Store,DIST009,Supermarket,South,Dong Nai
+RET0156,Lê Dương Tập Đoàn Store,DIST025,Grocery,North,Quang Ninh
+RET0157,Lê Mai Doanh nghiệp tư nhân Store,DIST013,Supermarket,Central,Binh Dinh
+RET0158,Lê Công ty Cổ phần Store,DIST001,Grocery,South,Can Tho
+RET0159,Dương Mai Tập Đoàn Store,DIST001,Grocery,North,Hai Phong
+RET0160,Mai Công ty Trách nhiệm hữu hạn Store,DIST030,Supermarket,North,Bac Ninh
+RET0161,Phạm và Trần Công ty TNHH MTV Store,DIST012,Grocery,Central,Hue
+RET0162,Lê Doanh nghiệp tư nhân Store,DIST015,Supermarket,North,Hai Phong
+RET0163,Trần và đối tác Công ty Trách nhiệm hữu hạn Store,DIST016,Convenience,South,Binh Duong
+RET0164,Đặng Công ty TNHH MTV Store,DIST027,Supermarket,Central,Binh Dinh
+RET0165,Trần Vũ Công ty Trách nhiệm hữu hạn Store,DIST032,Grocery,Central,Hue
+RET0166,Hoàng và đối tác Công ty TNHH Store,DIST037,Supermarket,Central,Da Nang
+RET0167,Dương Mai Công ty Cổ phần Store,DIST033,Grocery,North,Hai Phong
+RET0168,Vũ Dương Công ty Trách nhiệm hữu hạn Store,DIST018,Supermarket,South,Dong Nai
+RET0169,Hoàng và đối tác Tập Đoàn Store,DIST024,Supermarket,North,Quang Ninh
+RET0170,Trần và Bùi Công ty Hợp danh Store,DIST036,Convenience,South,Binh Duong
+RET0171,Dương và Bùi Công ty Cổ phần Store,DIST011,Supermarket,North,Hanoi
+RET0172,Đặng và Dương Công ty Cổ phần Store,DIST019,Supermarket,North,Bac Ninh
+RET0173,Phạm và đối tác Công ty Hợp danh Store,DIST013,Supermarket,Central,Hue
+RET0174,Đặng và Mai Công ty TNHH MTV Store,DIST037,Convenience,South,Binh Duong
+RET0175,Phạm và Đặng Tập Đoàn Store,DIST022,Convenience,North,Quang Ninh
+RET0176,Đặng và đối tác Công ty Cổ phần Store,DIST020,Grocery,North,Hai Phong
+RET0177,Đặng Dương Công ty Cổ phần Store,DIST001,Grocery,South,Ho Chi Minh City
+RET0178,Đặng Vũ Công ty TNHH MTV Store,DIST033,Supermarket,Central,Quang Nam
+RET0179,Đặng Bùi Tập Đoàn Store,DIST012,Grocery,South,Can Tho
+RET0180,Phạm và đối tác Doanh nghiệp tư nhân Store,DIST015,Grocery,South,Ho Chi Minh City
+RET0181,Vũ và Dương Công ty Cổ phần Store,DIST027,Grocery,Central,Quang Nam
+RET0182,Hoàng và đối tác Công ty Hợp danh Store,DIST019,Grocery,North,Hai Phong
+RET0183,Nguyễn Mai Công ty TNHH Store,DIST012,Supermarket,South,Binh Duong
+RET0184,Hoàng Công ty TNHH Store,DIST011,Grocery,North,Quang Ninh
+RET0185,Đặng Công ty TNHH MTV Store,DIST003,Supermarket,South,Can Tho
+RET0186,Dương và Trần Công ty Cổ phần Store,DIST013,Supermarket,Central,Da Nang
+RET0187,Bùi Công ty Hợp danh Store,DIST011,Supermarket,Central,Binh Dinh
+RET0188,Vũ Hoàng Doanh nghiệp tư nhân Store,DIST029,Grocery,North,Quang Ninh
+RET0189,Dương và Mai Công ty TNHH Store,DIST019,Grocery,Central,Binh Dinh
+RET0190,Lê Hoàng Công ty Trách nhiệm hữu hạn Store,DIST003,Convenience,North,Bac Ninh
+RET0191,Phạm và đối tác Tập Đoàn Store,DIST025,Convenience,Central,Quang Nam
+RET0192,Trần Bùi Công ty TNHH MTV Store,DIST025,Supermarket,Central,Binh Dinh
+RET0193,Vũ và Hoàng Doanh nghiệp tư nhân Store,DIST038,Grocery,South,Dong Nai
+RET0194,Hoàng và đối tác Công ty Cổ phần Store,DIST004,Grocery,North,Quang Ninh
+RET0195,Phạm và đối tác Công ty TNHH Store,DIST027,Convenience,South,Can Tho
+RET0196,Trần Công ty Trách nhiệm hữu hạn Store,DIST024,Grocery,North,Quang Ninh
+RET0197,Phạm Đặng Tập Đoàn Store,DIST008,Supermarket,Central,Binh Dinh
+RET0198,Trần Doanh nghiệp tư nhân Store,DIST036,Convenience,South,Can Tho
+RET0199,Dương Vũ Doanh nghiệp tư nhân Store,DIST040,Supermarket,South,Ho Chi Minh City
+RET0200,Lê Dương Công ty Cổ phần Store,DIST010,Supermarket,South,Ho Chi Minh City
+RET0201,Đặng và đối tác Doanh nghiệp tư nhân Store,DIST033,Grocery,North,Hanoi
+RET0202,Trần và Mai Tập Đoàn Store,DIST026,Supermarket,Central,Hue
+RET0203,Nguyễn Bùi Doanh nghiệp tư nhân Store,DIST023,Grocery,North,Bac Ninh
+RET0204,Hoàng Phạm Công ty Cổ phần Store,DIST036,Grocery,South,Ho Chi Minh City
+RET0205,Lê và đối tác Công ty TNHH MTV Store,DIST011,Grocery,North,Hai Phong
+RET0206,Đặng Hoàng Công ty Hợp danh Store,DIST031,Convenience,Central,Quang Nam
+RET0207,Bùi và Nguyễn Công ty TNHH Store,DIST008,Supermarket,South,Ho Chi Minh City
+RET0208,Vũ và đối tác Công ty TNHH MTV Store,DIST015,Grocery,South,Binh Duong
+RET0209,Phạm Công ty Hợp danh Store,DIST032,Grocery,North,Quang Ninh
+RET0210,Đặng và đối tác Công ty TNHH Store,DIST025,Convenience,North,Hanoi
+RET0211,Mai và Mai Doanh nghiệp tư nhân Store,DIST015,Grocery,South,Can Tho
+RET0212,Hoàng Mai Công ty Hợp danh Store,DIST018,Convenience,South,Can Tho
+RET0213,Dương và đối tác Công ty TNHH MTV Store,DIST035,Grocery,North,Hanoi
+RET0214,Mai Nguyễn Công ty Cổ phần Store,DIST017,Grocery,North,Hanoi
+RET0215,Phạm và đối tác Công ty TNHH Store,DIST024,Supermarket,Central,Da Nang
+RET0216,Phạm và Đặng Tập Đoàn Store,DIST026,Supermarket,Central,Quang Nam
+RET0217,Phạm Lê Công ty Hợp danh Store,DIST022,Grocery,Central,Quang Nam
+RET0218,Đặng và đối tác Công ty Trách nhiệm hữu hạn Store,DIST025,Supermarket,North,Quang Ninh
+RET0219,Bùi và Mai Công ty TNHH Store,DIST026,Grocery,Central,Da Nang
+RET0220,Phạm và Trần Công ty Cổ phần Store,DIST023,Grocery,Central,Da Nang
+RET0221,Bùi Hoàng Công ty Trách nhiệm hữu hạn Store,DIST040,Convenience,South,Ho Chi Minh City
+RET0222,Mai và đối tác Công ty TNHH MTV Store,DIST039,Supermarket,Central,Quang Nam
+RET0223,Dương và đối tác Công ty Hợp danh Store,DIST005,Grocery,Central,Quang Nam
+RET0224,Vũ và Hoàng Công ty Trách nhiệm hữu hạn Store,DIST014,Supermarket,South,Ho Chi Minh City
+RET0225,Dương Bùi Công ty Trách nhiệm hữu hạn Store,DIST002,Grocery,South,Ho Chi Minh City
+RET0226,Bùi Tập Đoàn Store,DIST038,Grocery,North,Quang Ninh
+RET0227,Vũ Công ty TNHH Store,DIST037,Grocery,North,Bac Ninh
+RET0228,Đặng và đối tác Công ty TNHH Store,DIST022,Convenience,South,Binh Duong
+RET0229,Hoàng và Bùi Doanh nghiệp tư nhân Store,DIST011,Convenience,South,Can Tho
+RET0230,Đặng Doanh nghiệp tư nhân Store,DIST034,Grocery,South,Ho Chi Minh City
+RET0231,Đặng và đối tác Công ty Cổ phần Store,DIST006,Supermarket,Central,Binh Dinh
+RET0232,Hoàng Công ty TNHH Store,DIST007,Grocery,Central,Quang Nam
+RET0233,Phạm và đối tác Tập Đoàn Store,DIST028,Convenience,South,Ho Chi Minh City
+RET0234,Lê Công ty Trách nhiệm hữu hạn Store,DIST014,Grocery,South,Dong Nai
+RET0235,Mai Đặng Công ty TNHH MTV Store,DIST038,Grocery,North,Hai Phong
+RET0236,Trần và đối tác Tập Đoàn Store,DIST039,Grocery,North,Quang Ninh
+RET0237,Đặng Nguyễn Công ty TNHH Store,DIST004,Convenience,Central,Hue
+RET0238,Đặng và đối tác Công ty Hợp danh Store,DIST030,Supermarket,North,Hai Phong
+RET0239,Vũ Công ty Cổ phần Store,DIST024,Convenience,Central,Quang Nam
+RET0240,Hoàng Dương Doanh nghiệp tư nhân Store,DIST010,Convenience,South,Dong Nai
+RET0241,Đặng Hoàng Doanh nghiệp tư nhân Store,DIST019,Grocery,Central,Da Nang
+RET0242,Phạm Công ty Hợp danh Store,DIST034,Supermarket,Central,Binh Dinh
+RET0243,Vũ Công ty TNHH MTV Store,DIST023,Grocery,South,Binh Duong
+RET0244,Bùi Công ty Hợp danh Store,DIST035,Grocery,North,Hai Phong
+RET0245,Trần Công ty Trách nhiệm hữu hạn Store,DIST029,Grocery,North,Quang Ninh
+RET0246,Mai Công ty TNHH MTV Store,DIST018,Convenience,South,Ho Chi Minh City
+RET0247,Hoàng và đối tác Doanh nghiệp tư nhân Store,DIST002,Convenience,Central,Da Nang
+RET0248,Dương và đối tác Công ty Hợp danh Store,DIST035,Supermarket,North,Bac Ninh
+RET0249,Trần Bùi Công ty Trách nhiệm hữu hạn Store,DIST023,Grocery,Central,Binh Dinh
+RET0250,Bùi Bùi Tập Đoàn Store,DIST005,Supermarket,North,Hanoi
+RET0251,Bùi Công ty Trách nhiệm hữu hạn Store,DIST007,Supermarket,South,Can Tho
+RET0252,Lê và Đặng Tập Đoàn Store,DIST026,Convenience,North,Hai Phong
+RET0253,Mai Công ty TNHH MTV Store,DIST037,Supermarket,North,Quang Ninh
+RET0254,Trần Phạm Tập Đoàn Store,DIST036,Grocery,North,Quang Ninh
+RET0255,Hoàng và đối tác Công ty TNHH MTV Store,DIST017,Grocery,North,Hanoi
+RET0256,Hoàng Nguyễn Công ty Trách nhiệm hữu hạn Store,DIST039,Supermarket,South,Can Tho
+RET0257,Phạm Công ty TNHH MTV Store,DIST029,Convenience,Central,Binh Dinh
+RET0258,Đặng và Mai Công ty Trách nhiệm hữu hạn Store,DIST036,Grocery,North,Hanoi
+RET0259,Mai và Mai Công ty TNHH MTV Store,DIST033,Supermarket,Central,Binh Dinh
+RET0260,Đặng Lê Công ty Cổ phần Store,DIST004,Grocery,North,Hai Phong
+RET0261,Bùi Công ty Hợp danh Store,DIST029,Supermarket,South,Ho Chi Minh City
+RET0262,Hoàng và Mai Tập Đoàn Store,DIST021,Supermarket,South,Ho Chi Minh City
+RET0263,Đặng Trần Công ty Hợp danh Store,DIST005,Convenience,Central,Hue
+RET0264,Phạm và Dương Doanh nghiệp tư nhân Store,DIST021,Convenience,Central,Quang Nam
+RET0265,Phạm và Dương Công ty Cổ phần Store,DIST023,Supermarket,Central,Binh Dinh
+RET0266,Phạm và đối tác Doanh nghiệp tư nhân Store,DIST003,Grocery,South,Binh Duong
+RET0267,Đặng Doanh nghiệp tư nhân Store,DIST037,Supermarket,North,Bac Ninh
+RET0268,Vũ Công ty Hợp danh Store,DIST034,Supermarket,Central,Da Nang
+RET0269,Lê Công ty Hợp danh Store,DIST017,Supermarket,South,Can Tho
+RET0270,Hoàng và đối tác Công ty Cổ phần Store,DIST018,Convenience,North,Bac Ninh
+RET0271,Mai Hoàng Công ty Cổ phần Store,DIST005,Grocery,Central,Quang Nam
+RET0272,Mai Tập Đoàn Store,DIST022,Supermarket,Central,Hue
+RET0273,Đặng Dương Công ty Hợp danh Store,DIST017,Grocery,South,Binh Duong
+RET0274,Phạm Nguyễn Công ty TNHH Store,DIST013,Convenience,Central,Quang Nam
+RET0275,Lê và đối tác Công ty Cổ phần Store,DIST001,Supermarket,North,Hai Phong
+RET0276,Đặng và đối tác Công ty TNHH Store,DIST033,Convenience,Central,Hue
+RET0277,Phạm và đối tác Công ty Hợp danh Store,DIST036,Convenience,South,Dong Nai
+RET0278,Phạm và đối tác Doanh nghiệp tư nhân Store,DIST027,Supermarket,North,Hai Phong
+RET0279,Dương và Đặng Công ty Hợp danh Store,DIST006,Grocery,South,Can Tho
+RET0280,Vũ Công ty TNHH MTV Store,DIST012,Supermarket,South,Can Tho
+RET0281,Phạm và đối tác Tập Đoàn Store,DIST025,Grocery,South,Dong Nai
+RET0282,Phạm và đối tác Tập Đoàn Store,DIST001,Convenience,North,Hanoi
+RET0283,Vũ Lê Công ty Hợp danh Store,DIST033,Convenience,North,Bac Ninh
+RET0284,Vũ và đối tác Tập Đoàn Store,DIST040,Convenience,Central,Da Nang
+RET0285,Dương Trần Doanh nghiệp tư nhân Store,DIST032,Supermarket,South,Binh Duong
+RET0286,Đặng Nguyễn Công ty Trách nhiệm hữu hạn Store,DIST002,Supermarket,North,Hai Phong
+RET0287,Nguyễn và Đặng Công ty Trách nhiệm hữu hạn Store,DIST032,Convenience,South,Ho Chi Minh City
+RET0288,Mai và đối tác Tập Đoàn Store,DIST014,Grocery,Central,Binh Dinh
+RET0289,Trần và đối tác Công ty TNHH Store,DIST037,Supermarket,South,Dong Nai
+RET0290,Lê Vũ Doanh nghiệp tư nhân Store,DIST040,Grocery,North,Bac Ninh
+RET0291,Nguyễn Đặng Công ty Trách nhiệm hữu hạn Store,DIST035,Grocery,North,Bac Ninh
+RET0292,Vũ Bùi Doanh nghiệp tư nhân Store,DIST019,Convenience,Central,Binh Dinh
+RET0293,Nguyễn và Trần Công ty Cổ phần Store,DIST040,Grocery,Central,Binh Dinh
+RET0294,Mai và Vũ Doanh nghiệp tư nhân Store,DIST035,Supermarket,Central,Binh Dinh
+RET0295,Hoàng Công ty TNHH Store,DIST037,Convenience,South,Binh Duong
+RET0296,Hoàng và Dương Doanh nghiệp tư nhân Store,DIST015,Supermarket,North,Bac Ninh
+RET0297,Lê Công ty TNHH MTV Store,DIST008,Supermarket,South,Dong Nai
+RET0298,Dương Dương Công ty Hợp danh Store,DIST002,Convenience,North,Hanoi
+RET0299,Dương Công ty Hợp danh Store,DIST037,Supermarket,Central,Binh Dinh
+RET0300,Hoàng Công ty Trách nhiệm hữu hạn Store,DIST014,Supermarket,South,Dong Nai
+RET0301,Vũ Công ty TNHH MTV Store,DIST006,Supermarket,Central,Hue
+RET0302,Dương Đặng Công ty TNHH MTV Store,DIST003,Supermarket,North,Hai Phong
+RET0303,Vũ Nguyễn Công ty TNHH MTV Store,DIST021,Supermarket,Central,Quang Nam
+RET0304,Đặng Công ty Hợp danh Store,DIST011,Convenience,Central,Binh Dinh
+RET0305,Vũ Công ty TNHH MTV Store,DIST012,Grocery,Central,Quang Nam
+RET0306,Phạm Mai Doanh nghiệp tư nhân Store,DIST029,Supermarket,North,Quang Ninh
+RET0307,Vũ và Hoàng Công ty Trách nhiệm hữu hạn Store,DIST021,Grocery,North,Hai Phong
+RET0308,Nguyễn Đặng Tập Đoàn Store,DIST003,Convenience,Central,Binh Dinh
+RET0309,Đặng Phạm Công ty TNHH MTV Store,DIST026,Convenience,North,Hanoi
+RET0310,Hoàng và Lê Công ty TNHH MTV Store,DIST033,Supermarket,Central,Hue
+RET0311,Dương và đối tác Công ty Trách nhiệm hữu hạn Store,DIST014,Supermarket,South,Ho Chi Minh City
+RET0312,Trần và đối tác Công ty TNHH Store,DIST020,Supermarket,Central,Binh Dinh
+RET0313,Bùi Trần Công ty TNHH Store,DIST039,Grocery,South,Can Tho
+RET0314,Nguyễn và đối tác Doanh nghiệp tư nhân Store,DIST039,Supermarket,Central,Hue
+RET0315,Mai Trần Công ty Trách nhiệm hữu hạn Store,DIST022,Supermarket,North,Quang Ninh
+RET0316,Phạm Công ty Cổ phần Store,DIST025,Convenience,North,Bac Ninh
+RET0317,Lê và Phạm Công ty TNHH Store,DIST040,Convenience,Central,Hue
+RET0318,Lê và Trần Doanh nghiệp tư nhân Store,DIST010,Supermarket,Central,Hue
+RET0319,Bùi Lê Công ty Hợp danh Store,DIST003,Convenience,South,Ho Chi Minh City
+RET0320,Hoàng Công ty Hợp danh Store,DIST036,Supermarket,South,Ho Chi Minh City
+RET0321,Lê và Đặng Công ty TNHH Store,DIST022,Supermarket,North,Hai Phong
+RET0322,Trần và đối tác Doanh nghiệp tư nhân Store,DIST010,Convenience,Central,Quang Nam
+RET0323,Vũ Hoàng Công ty Trách nhiệm hữu hạn Store,DIST019,Grocery,South,Ho Chi Minh City
+RET0324,Bùi và Dương Công ty TNHH Store,DIST017,Grocery,North,Quang Ninh
+RET0325,Dương Trần Công ty Hợp danh Store,DIST035,Grocery,Central,Hue
+RET0326,Bùi và đối tác Công ty Hợp danh Store,DIST033,Grocery,Central,Binh Dinh
+RET0327,Đặng và đối tác Công ty Cổ phần Store,DIST024,Supermarket,Central,Da Nang
+RET0328,Dương và Đặng Công ty Hợp danh Store,DIST009,Supermarket,Central,Quang Nam
+RET0329,Mai và Dương Công ty TNHH MTV Store,DIST001,Grocery,North,Bac Ninh
+RET0330,Mai Công ty Hợp danh Store,DIST020,Convenience,North,Bac Ninh
+RET0331,Đặng và Lê Công ty Trách nhiệm hữu hạn Store,DIST017,Grocery,Central,Hue
+RET0332,Vũ và đối tác Tập Đoàn Store,DIST003,Convenience,North,Bac Ninh
+RET0333,Lê Công ty Hợp danh Store,DIST003,Grocery,South,Binh Duong
+RET0334,Đặng Mai Công ty Hợp danh Store,DIST016,Convenience,South,Dong Nai
+RET0335,Trần và đối tác Doanh nghiệp tư nhân Store,DIST016,Grocery,Central,Hue
+RET0336,Mai và Dương Công ty Cổ phần Store,DIST028,Supermarket,South,Binh Duong
+RET0337,Vũ và Bùi Công ty Trách nhiệm hữu hạn Store,DIST037,Grocery,Central,Quang Nam
+RET0338,Hoàng Doanh nghiệp tư nhân Store,DIST013,Supermarket,South,Dong Nai
+RET0339,Mai Vũ Công ty TNHH MTV Store,DIST006,Grocery,North,Bac Ninh
+RET0340,Lê Mai Tập Đoàn Store,DIST040,Grocery,Central,Binh Dinh
+RET0341,Hoàng và Phạm Công ty Trách nhiệm hữu hạn Store,DIST032,Grocery,Central,Da Nang
+RET0342,Nguyễn và đối tác Công ty Cổ phần Store,DIST019,Grocery,North,Hanoi
+RET0343,Vũ và đối tác Công ty TNHH MTV Store,DIST007,Grocery,North,Hai Phong
+RET0344,Hoàng và đối tác Công ty TNHH Store,DIST004,Grocery,North,Bac Ninh
+RET0345,Trần Công ty TNHH Store,DIST033,Convenience,South,Binh Duong
+RET0346,Đặng Công ty Trách nhiệm hữu hạn Store,DIST011,Convenience,Central,Binh Dinh
+RET0347,Đặng và đối tác Tập Đoàn Store,DIST034,Grocery,South,Dong Nai
+RET0348,Phạm và Mai Công ty Trách nhiệm hữu hạn Store,DIST005,Supermarket,Central,Quang Nam
+RET0349,Bùi Công ty Cổ phần Store,DIST004,Grocery,South,Can Tho
+RET0350,Lê Hoàng Công ty TNHH Store,DIST009,Supermarket,South,Can Tho
+RET0351,Dương Trần Công ty TNHH MTV Store,DIST004,Grocery,South,Dong Nai
+RET0352,Đặng Công ty TNHH MTV Store,DIST022,Convenience,South,Can Tho
+RET0353,Bùi Doanh nghiệp tư nhân Store,DIST024,Grocery,Central,Quang Nam
+RET0354,Hoàng Vũ Công ty TNHH MTV Store,DIST011,Supermarket,North,Hai Phong
+RET0355,Mai và Trần Tập Đoàn Store,DIST011,Grocery,South,Can Tho
+RET0356,Dương Công ty TNHH MTV Store,DIST012,Supermarket,South,Ho Chi Minh City
+RET0357,Trần và Lê Công ty Trách nhiệm hữu hạn Store,DIST035,Convenience,South,Can Tho
+RET0358,Mai và đối tác Công ty TNHH MTV Store,DIST032,Grocery,North,Bac Ninh
+RET0359,Lê Trần Doanh nghiệp tư nhân Store,DIST024,Supermarket,North,Hai Phong
+RET0360,Hoàng và Hoàng Công ty Hợp danh Store,DIST020,Convenience,South,Dong Nai
+RET0361,Mai và đối tác Công ty TNHH Store,DIST025,Convenience,South,Binh Duong
+RET0362,Trần và đối tác Công ty Trách nhiệm hữu hạn Store,DIST019,Convenience,Central,Da Nang
+RET0363,Trần Công ty Trách nhiệm hữu hạn Store,DIST007,Convenience,South,Ho Chi Minh City
+RET0364,Đặng và đối tác Tập Đoàn Store,DIST037,Grocery,North,Hanoi
+RET0365,Lê và đối tác Tập Đoàn Store,DIST026,Grocery,North,Hai Phong
+RET0366,Dương Bùi Tập Đoàn Store,DIST017,Supermarket,Central,Binh Dinh
+RET0367,Bùi và Dương Công ty Trách nhiệm hữu hạn Store,DIST012,Supermarket,Central,Hue
+RET0368,Đặng Doanh nghiệp tư nhân Store,DIST012,Convenience,North,Bac Ninh
+RET0369,Hoàng và Dương Công ty Hợp danh Store,DIST020,Convenience,Central,Hue
+RET0370,Lê và Dương Doanh nghiệp tư nhân Store,DIST040,Supermarket,South,Binh Duong
+RET0371,Vũ Nguyễn Công ty Trách nhiệm hữu hạn Store,DIST018,Supermarket,South,Can Tho
+RET0372,Dương Công ty TNHH MTV Store,DIST035,Grocery,Central,Hue
+RET0373,Hoàng Công ty TNHH MTV Store,DIST018,Convenience,Central,Hue
+RET0374,Nguyễn Công ty Trách nhiệm hữu hạn Store,DIST032,Supermarket,South,Ho Chi Minh City
+RET0375,Lê và đối tác Công ty Hợp danh Store,DIST009,Supermarket,Central,Da Nang
+RET0376,Lê và Dương Tập Đoàn Store,DIST010,Convenience,South,Can Tho
+RET0377,Trần và đối tác Tập Đoàn Store,DIST007,Grocery,Central,Quang Nam
+RET0378,Hoàng Công ty Trách nhiệm hữu hạn Store,DIST023,Convenience,South,Binh Duong
+RET0379,Lê Lê Công ty Trách nhiệm hữu hạn Store,DIST017,Grocery,North,Hanoi
+RET0380,Lê Vũ Công ty Hợp danh Store,DIST017,Convenience,South,Dong Nai
+RET0381,Phạm và Bùi Công ty Hợp danh Store,DIST037,Grocery,Central,Hue
+RET0382,Dương và Hoàng Công ty TNHH Store,DIST007,Convenience,Central,Binh Dinh
+RET0383,Mai Công ty TNHH MTV Store,DIST006,Convenience,Central,Quang Nam
+RET0384,Bùi Công ty Trách nhiệm hữu hạn Store,DIST024,Grocery,South,Ho Chi Minh City
+RET0385,Trần và Đặng Công ty TNHH MTV Store,DIST005,Convenience,South,Ho Chi Minh City
+RET0386,Phạm và đối tác Công ty Hợp danh Store,DIST038,Convenience,North,Quang Ninh
+RET0387,Hoàng Công ty TNHH MTV Store,DIST010,Grocery,Central,Quang Nam
+RET0388,Phạm Đặng Tập Đoàn Store,DIST005,Convenience,North,Quang Ninh
+RET0389,Lê và Lê Công ty TNHH MTV Store,DIST009,Convenience,South,Dong Nai
+RET0390,Phạm và đối tác Công ty Hợp danh Store,DIST028,Grocery,South,Ho Chi Minh City
+RET0391,Nguyễn Công ty TNHH MTV Store,DIST034,Convenience,North,Hanoi
+RET0392,Đặng Công ty TNHH MTV Store,DIST016,Convenience,North,Quang Ninh
+RET0393,Nguyễn Tập Đoàn Store,DIST034,Grocery,North,Hanoi
+RET0394,Lê Lê Doanh nghiệp tư nhân Store,DIST004,Convenience,South,Can Tho
+RET0395,Trần Dương Công ty TNHH Store,DIST005,Convenience,North,Bac Ninh
+RET0396,Dương Công ty Cổ phần Store,DIST039,Convenience,Central,Da Nang
+RET0397,Bùi và Trần Doanh nghiệp tư nhân Store,DIST003,Convenience,South,Binh Duong
+RET0398,Bùi Tập Đoàn Store,DIST034,Supermarket,South,Can Tho
+RET0399,Bùi Công ty TNHH MTV Store,DIST008,Grocery,South,Ho Chi Minh City
+RET0400,Mai và Lê Tập Đoàn Store,DIST021,Grocery,South,Ho Chi Minh City
+RET0401,Phạm và đối tác Doanh nghiệp tư nhân Store,DIST031,Convenience,Central,Quang Nam
+RET0402,Trần Đặng Tập Đoàn Store,DIST040,Supermarket,South,Ho Chi Minh City
+RET0403,Đặng và đối tác Công ty TNHH MTV Store,DIST015,Convenience,Central,Da Nang
+RET0404,Dương Đặng Doanh nghiệp tư nhân Store,DIST007,Convenience,South,Can Tho
+RET0405,Vũ và Mai Công ty TNHH Store,DIST015,Supermarket,South,Dong Nai
+RET0406,Phạm Lê Công ty TNHH MTV Store,DIST033,Convenience,Central,Da Nang
+RET0407,Mai và đối tác Công ty Hợp danh Store,DIST028,Convenience,North,Hanoi
+RET0408,Mai và Lê Công ty Hợp danh Store,DIST033,Supermarket,North,Hanoi
+RET0409,Dương và Hoàng Công ty Cổ phần Store,DIST038,Grocery,Central,Da Nang
+RET0410,Nguyễn và đối tác Công ty Cổ phần Store,DIST037,Grocery,Central,Hue
+RET0411,Hoàng Phạm Doanh nghiệp tư nhân Store,DIST027,Grocery,South,Ho Chi Minh City
+RET0412,Mai và đối tác Công ty Hợp danh Store,DIST033,Convenience,South,Ho Chi Minh City
+RET0413,Bùi Doanh nghiệp tư nhân Store,DIST007,Convenience,North,Quang Ninh
+RET0414,Phạm và đối tác Công ty TNHH Store,DIST039,Convenience,North,Hanoi
+RET0415,Dương và Vũ Công ty Trách nhiệm hữu hạn Store,DIST025,Grocery,Central,Binh Dinh
+RET0416,Phạm Vũ Công ty Trách nhiệm hữu hạn Store,DIST004,Supermarket,Central,Quang Nam
+RET0417,Vũ Công ty TNHH MTV Store,DIST010,Grocery,Central,Quang Nam
+RET0418,Trần Doanh nghiệp tư nhân Store,DIST022,Convenience,Central,Da Nang
+RET0419,Nguyễn Tập Đoàn Store,DIST004,Supermarket,South,Ho Chi Minh City
+RET0420,Vũ Công ty TNHH Store,DIST010,Supermarket,Central,Quang Nam
+RET0421,Nguyễn Công ty TNHH Store,DIST021,Supermarket,Central,Quang Nam
+RET0422,Trần Công ty TNHH MTV Store,DIST016,Grocery,North,Quang Ninh
+RET0423,Dương Lê Công ty TNHH Store,DIST032,Grocery,North,Bac Ninh
+RET0424,Mai và Trần Công ty TNHH Store,DIST034,Convenience,Central,Quang Nam
+RET0425,Bùi Tập Đoàn Store,DIST001,Convenience,North,Hai Phong
+RET0426,Mai Công ty TNHH Store,DIST019,Grocery,South,Binh Duong
+RET0427,Mai Phạm Công ty Cổ phần Store,DIST018,Grocery,Central,Binh Dinh
+RET0428,Nguyễn Bùi Doanh nghiệp tư nhân Store,DIST007,Grocery,North,Quang Ninh
+RET0429,Nguyễn Công ty TNHH Store,DIST021,Grocery,South,Dong Nai
+RET0430,Lê Dương Công ty TNHH Store,DIST027,Convenience,Central,Quang Nam
+RET0431,Trần Công ty Trách nhiệm hữu hạn Store,DIST031,Supermarket,South,Ho Chi Minh City
+RET0432,Mai và đối tác Tập Đoàn Store,DIST025,Convenience,Central,Da Nang
+RET0433,Dương Doanh nghiệp tư nhân Store,DIST039,Grocery,North,Bac Ninh
+RET0434,Bùi và Nguyễn Công ty Hợp danh Store,DIST033,Convenience,North,Hanoi
+RET0435,Lê và Mai Công ty Cổ phần Store,DIST018,Supermarket,South,Dong Nai
+RET0436,Phạm Công ty Trách nhiệm hữu hạn Store,DIST035,Supermarket,South,Ho Chi Minh City
+RET0437,Phạm và đối tác Tập Đoàn Store,DIST018,Grocery,Central,Binh Dinh
+RET0438,Trần Bùi Công ty TNHH Store,DIST006,Supermarket,North,Quang Ninh
+RET0439,Dương và đối tác Công ty TNHH Store,DIST008,Supermarket,South,Can Tho
+RET0440,Trần Bùi Công ty Hợp danh Store,DIST034,Supermarket,South,Binh Duong
+RET0441,Vũ Công ty Cổ phần Store,DIST023,Convenience,North,Quang Ninh
+RET0442,Đặng Công ty TNHH MTV Store,DIST002,Supermarket,South,Dong Nai
+RET0443,Đặng Tập Đoàn Store,DIST025,Convenience,South,Dong Nai
+RET0444,Hoàng và đối tác Doanh nghiệp tư nhân Store,DIST002,Grocery,South,Dong Nai
+RET0445,Trần Phạm Công ty Cổ phần Store,DIST007,Grocery,South,Can Tho
+RET0446,Đặng Công ty TNHH MTV Store,DIST007,Convenience,South,Binh Duong
+RET0447,Hoàng và Trần Doanh nghiệp tư nhân Store,DIST008,Grocery,Central,Binh Dinh
+RET0448,Phạm và đối tác Công ty Cổ phần Store,DIST014,Supermarket,Central,Da Nang
+RET0449,Trần Lê Doanh nghiệp tư nhân Store,DIST008,Grocery,South,Dong Nai
+RET0450,Phạm Hoàng Doanh nghiệp tư nhân Store,DIST004,Convenience,South,Ho Chi Minh City
+RET0451,Hoàng Doanh nghiệp tư nhân Store,DIST004,Grocery,South,Ho Chi Minh City
+RET0452,Vũ Mai Tập Đoàn Store,DIST007,Convenience,South,Can Tho
+RET0453,Lê và đối tác Công ty Trách nhiệm hữu hạn Store,DIST011,Supermarket,South,Binh Duong
+RET0454,Trần và Hoàng Doanh nghiệp tư nhân Store,DIST026,Convenience,South,Dong Nai
+RET0455,Hoàng Doanh nghiệp tư nhân Store,DIST020,Convenience,South,Dong Nai
+RET0456,Phạm và Nguyễn Tập Đoàn Store,DIST038,Convenience,North,Hai Phong
+RET0457,Bùi Công ty Cổ phần Store,DIST014,Convenience,Central,Binh Dinh
+RET0458,Đặng và Trần Công ty TNHH Store,DIST036,Supermarket,North,Hanoi
+RET0459,Đặng và đối tác Công ty TNHH MTV Store,DIST012,Supermarket,South,Can Tho
+RET0460,Hoàng Phạm Công ty Trách nhiệm hữu hạn Store,DIST013,Supermarket,North,Bac Ninh
+RET0461,Dương Công ty TNHH Store,DIST022,Grocery,Central,Binh Dinh
+RET0462,Nguyễn và đối tác Tập Đoàn Store,DIST019,Supermarket,Central,Binh Dinh
+RET0463,Trần Công ty Cổ phần Store,DIST009,Convenience,South,Binh Duong
+RET0464,Mai Doanh nghiệp tư nhân Store,DIST025,Convenience,South,Can Tho
+RET0465,Đặng và đối tác Công ty TNHH Store,DIST022,Supermarket,South,Ho Chi Minh City
+RET0466,Bùi Hoàng Doanh nghiệp tư nhân Store,DIST001,Supermarket,North,Bac Ninh
+RET0467,Mai và đối tác Công ty Hợp danh Store,DIST039,Convenience,South,Can Tho
+RET0468,Bùi và đối tác Công ty Hợp danh Store,DIST023,Supermarket,South,Dong Nai
+RET0469,Lê và đối tác Công ty Trách nhiệm hữu hạn Store,DIST027,Grocery,North,Hanoi
+RET0470,Bùi Công ty Cổ phần Store,DIST028,Supermarket,North,Hai Phong
+RET0471,Phạm Công ty Trách nhiệm hữu hạn Store,DIST040,Convenience,South,Ho Chi Minh City
+RET0472,Đặng và đối tác Công ty TNHH Store,DIST030,Convenience,South,Binh Duong
+RET0473,Phạm và đối tác Công ty Cổ phần Store,DIST033,Grocery,North,Hai Phong
+RET0474,Phạm và Lê Doanh nghiệp tư nhân Store,DIST031,Grocery,South,Can Tho
+RET0475,Hoàng Bùi Công ty TNHH MTV Store,DIST004,Grocery,South,Binh Duong
+RET0476,Trần và Dương Công ty Cổ phần Store,DIST008,Supermarket,Central,Quang Nam
+RET0477,Nguyễn và đối tác Công ty Trách nhiệm hữu hạn Store,DIST038,Convenience,North,Hai Phong
+RET0478,Nguyễn Mai Công ty Trách nhiệm hữu hạn Store,DIST027,Supermarket,North,Bac Ninh
+RET0479,Bùi Công ty Cổ phần Store,DIST040,Grocery,Central,Quang Nam
+RET0480,Trần và Đặng Doanh nghiệp tư nhân Store,DIST032,Grocery,South,Ho Chi Minh City
+RET0481,Đặng và đối tác Công ty Cổ phần Store,DIST021,Convenience,Central,Binh Dinh
+RET0482,Mai và đối tác Công ty Hợp danh Store,DIST026,Grocery,North,Hanoi
+RET0483,Mai Công ty TNHH MTV Store,DIST033,Grocery,Central,Quang Nam
+RET0484,Hoàng Công ty Hợp danh Store,DIST019,Grocery,North,Hai Phong
+RET0485,Đặng và đối tác Công ty TNHH MTV Store,DIST010,Supermarket,North,Hanoi
+RET0486,Lê Tập Đoàn Store,DIST019,Supermarket,North,Hai Phong
+RET0487,Bùi Tập Đoàn Store,DIST012,Grocery,North,Quang Ninh
+RET0488,Đặng và đối tác Công ty Hợp danh Store,DIST013,Supermarket,North,Hai Phong
+RET0489,Lê và đối tác Công ty Trách nhiệm hữu hạn Store,DIST033,Convenience,North,Hai Phong
+RET0490,Dương Công ty Cổ phần Store,DIST030,Supermarket,South,Binh Duong
+RET0491,Phạm Tập Đoàn Store,DIST015,Supermarket,Central,Quang Nam
+RET0492,Trần Mai Công ty Trách nhiệm hữu hạn Store,DIST007,Grocery,North,Hai Phong
+RET0493,Mai Mai Công ty Cổ phần Store,DIST005,Grocery,Central,Quang Nam
+RET0494,Hoàng và đối tác Công ty TNHH Store,DIST034,Grocery,Central,Quang Nam
+RET0495,Phạm và Nguyễn Doanh nghiệp tư nhân Store,DIST025,Supermarket,South,Binh Duong
+RET0496,Hoàng Dương Doanh nghiệp tư nhân Store,DIST021,Grocery,South,Dong Nai
+RET0497,Trần và Hoàng Công ty TNHH MTV Store,DIST014,Convenience,North,Hanoi
+RET0498,Hoàng Công ty Cổ phần Store,DIST018,Grocery,Central,Binh Dinh
+RET0499,Trần Bùi Công ty Hợp danh Store,DIST004,Grocery,North,Hai Phong
+RET0500,Nguyễn Bùi Công ty Hợp danh Store,DIST028,Convenience,South,Can Tho

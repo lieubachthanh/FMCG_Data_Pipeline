@@ -1,0 +1,22 @@
+# FMCG Data Engineering Platform
+# Python dependencies
+
+# Data generation
+pandas>=2.1.0
+numpy>=1.26.0
+faker>=22.0.0
+
+# Spark processing
+pyspark>=3.5.0
+
+# Data warehouse
+duckdb>=0.10.0
+
+# Parquet support
+pyarrow>=14.0.0
+
+# Airflow (for local dev without Docker)
+# apache-airflow>=2.9.0
+
+# Optional: Jupyter for exploration
+jupyterlab>=4.0.0

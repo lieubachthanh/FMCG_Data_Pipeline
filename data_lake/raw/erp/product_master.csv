@@ -1,0 +1,51 @@
+﻿product_id,sku_code,sku_name,brand,category,sub_category,pack_size,launch_date,innovation_flag
+PRD1000,SKU1000,VietRefresh Still Water 24-pack,VietRefresh,Water,Still Water,24-pack,2022-03-16,0
+PRD1001,SKU1001,VietRefresh Still Water 250ml,VietRefresh,Water,Still Water,250ml,2021-10-31,0
+PRD1002,SKU1002,VietRefresh Orange Juice 250ml,VietRefresh,Juice,Orange Juice,250ml,2021-06-27,0
+PRD1003,SKU1003,VietRefresh Orange Juice 500ml,VietRefresh,Juice,Orange Juice,500ml,2023-02-17,1
+PRD1004,SKU1004,VietRefresh Classic Energy 330ml,VietRefresh,Energy Drink,Classic Energy,330ml,2023-01-27,1
+PRD1005,SKU1005,VietRefresh Classic Energy 24-pack,VietRefresh,Energy Drink,Classic Energy,24-pack,2022-06-19,0
+PRD1006,SKU1006,VietRefresh Green Tea 330ml,VietRefresh,Tea,Green Tea,330ml,2021-02-09,0
+PRD1007,SKU1007,VietRefresh Green Tea 250ml,VietRefresh,Tea,Green Tea,250ml,2023-03-12,1
+PRD1008,SKU1008,VietRefresh Cola 24-pack,VietRefresh,Soda,Cola,24-pack,2023-05-09,1
+PRD1009,SKU1009,VietRefresh Cola 1.5L,VietRefresh,Soda,Cola,1.5L,2020-08-20,0
+PRD1010,SKU1010,CoolDrink Still Water 250ml,CoolDrink,Water,Still Water,250ml,2020-05-12,0
+PRD1011,SKU1011,CoolDrink Still Water 1.5L,CoolDrink,Water,Still Water,1.5L,2020-09-04,0
+PRD1012,SKU1012,CoolDrink Orange Juice 1L,CoolDrink,Juice,Orange Juice,1L,2022-06-16,0
+PRD1013,SKU1013,CoolDrink Orange Juice 250ml,CoolDrink,Juice,Orange Juice,250ml,2022-02-17,0
+PRD1014,SKU1014,CoolDrink Classic Energy 250ml,CoolDrink,Energy Drink,Classic Energy,250ml,2022-12-08,0
+PRD1015,SKU1015,CoolDrink Classic Energy 24-pack,CoolDrink,Energy Drink,Classic Energy,24-pack,2021-10-24,0
+PRD1016,SKU1016,CoolDrink Green Tea 330ml,CoolDrink,Tea,Green Tea,330ml,2020-08-15,0
+PRD1017,SKU1017,CoolDrink Green Tea 24-pack,CoolDrink,Tea,Green Tea,24-pack,2021-03-18,0
+PRD1018,SKU1018,CoolDrink Cola 1.5L,CoolDrink,Soda,Cola,1.5L,2020-04-24,0
+PRD1019,SKU1019,CoolDrink Cola 24-pack,CoolDrink,Soda,Cola,24-pack,2022-04-17,0
+PRD1020,SKU1020,PureSip Still Water 250ml,PureSip,Water,Still Water,250ml,2023-02-25,1
+PRD1021,SKU1021,PureSip Still Water 1.5L,PureSip,Water,Still Water,1.5L,2023-04-10,1
+PRD1022,SKU1022,PureSip Orange Juice 330ml,PureSip,Juice,Orange Juice,330ml,2021-12-25,0
+PRD1023,SKU1023,PureSip Orange Juice 1.5L,PureSip,Juice,Orange Juice,1.5L,2020-05-22,0
+PRD1024,SKU1024,PureSip Classic Energy 1L,PureSip,Energy Drink,Classic Energy,1L,2020-03-04,0
+PRD1025,SKU1025,PureSip Classic Energy 330ml,PureSip,Energy Drink,Classic Energy,330ml,2021-02-22,0
+PRD1026,SKU1026,PureSip Green Tea 1L,PureSip,Tea,Green Tea,1L,2021-01-08,0
+PRD1027,SKU1027,PureSip Green Tea 1.5L,PureSip,Tea,Green Tea,1.5L,2021-11-26,0
+PRD1028,SKU1028,PureSip Cola 500ml,PureSip,Soda,Cola,500ml,2020-11-28,0
+PRD1029,SKU1029,PureSip Cola 250ml,PureSip,Soda,Cola,250ml,2022-03-02,0
+PRD1030,SKU1030,ZenWater Still Water 330ml,ZenWater,Water,Still Water,330ml,2020-08-09,0
+PRD1031,SKU1031,ZenWater Still Water 1L,ZenWater,Water,Still Water,1L,2022-01-10,0
+PRD1032,SKU1032,ZenWater Orange Juice 500ml,ZenWater,Juice,Orange Juice,500ml,2020-03-27,0
+PRD1033,SKU1033,ZenWater Orange Juice 24-pack,ZenWater,Juice,Orange Juice,24-pack,2023-02-12,1
+PRD1034,SKU1034,ZenWater Classic Energy 330ml,ZenWater,Energy Drink,Classic Energy,330ml,2022-04-06,0
+PRD1035,SKU1035,ZenWater Classic Energy 24-pack,ZenWater,Energy Drink,Classic Energy,24-pack,2022-06-10,0
+PRD1036,SKU1036,ZenWater Green Tea 500ml,ZenWater,Tea,Green Tea,500ml,2021-01-01,0
+PRD1037,SKU1037,ZenWater Green Tea 250ml,ZenWater,Tea,Green Tea,250ml,2020-12-24,0
+PRD1038,SKU1038,ZenWater Cola 250ml,ZenWater,Soda,Cola,250ml,2022-05-06,0
+PRD1039,SKU1039,ZenWater Cola 1L,ZenWater,Soda,Cola,1L,2021-02-16,0
+PRD1040,SKU1040,FizzPop Still Water 250ml,FizzPop,Water,Still Water,250ml,2020-08-30,0
+PRD1041,SKU1041,FizzPop Still Water 500ml,FizzPop,Water,Still Water,500ml,2022-11-01,0
+PRD1042,SKU1042,FizzPop Orange Juice 500ml,FizzPop,Juice,Orange Juice,500ml,2022-01-02,0
+PRD1043,SKU1043,FizzPop Orange Juice 1.5L,FizzPop,Juice,Orange Juice,1.5L,2022-10-04,0
+PRD1044,SKU1044,FizzPop Classic Energy 500ml,FizzPop,Energy Drink,Classic Energy,500ml,2020-03-28,0
+PRD1045,SKU1045,FizzPop Classic Energy 250ml,FizzPop,Energy Drink,Classic Energy,250ml,2021-05-22,0
+PRD1046,SKU1046,FizzPop Green Tea 24-pack,FizzPop,Tea,Green Tea,24-pack,2021-03-23,0
+PRD1047,SKU1047,FizzPop Green Tea 1L,FizzPop,Tea,Green Tea,1L,2021-11-20,0
+PRD1048,SKU1048,FizzPop Cola 1.5L,FizzPop,Soda,Cola,1.5L,2021-11-20,0
+PRD1049,SKU1049,FizzPop Cola 250ml,FizzPop,Soda,Cola,250ml,2021-08-02,0
